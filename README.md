@@ -1,8 +1,9 @@
-# GitHub Badges Practice
+## My GitHub Learning Journey
 
-This repository is created to learn GitHub.
+I am learning Git and GitHub.
 
-## My Goals
-- Learn Git and GitHub
-- Understand Pull Requests
-- Earn GitHub Achievements
+My goals:
+- Understand branches
+- Create Pull Requests
+- Contribute to open-source projects
+- Earn GitHub achievements
