@@ -1,9 +1,14 @@
-## My GitHub Learning Journey
+## Technologies I Am Learning
 
-I am learning Git and GitHub.
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
 
-My goals:
-- Understand branches
-- Create Pull Requests
-- Contribute to open-source projects
-- Earn GitHub achievements
+## My Goal
+
+To become a skilled software developer
+and contribute to open-source projects.
